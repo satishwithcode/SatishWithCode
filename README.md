@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11satish&label=Profile%20views&color=0e75b6&style=flat" alt="11satish" /> </p>
 
-- - 🌱 I’m currently learning **Java + Data Structure + Algorithm**
+- - 🌱 I’m currently learning **Java + Data Structure + Algorithms**
 
 - - 👨‍⚖💻 can you also check out my portfolio at [ѕαтιѕн | ρσятƒσℓισ](https://11satish.github.io/---/)
 

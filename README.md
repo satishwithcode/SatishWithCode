@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Satish Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Looking forward to working in a challenging environment!!!</h3>
 
  <img align="right" style="right:40;" src="https://github.com/11Satish/11satish/blob/main/img/VN20210917-153949-unscreen.gif" width="320">
 

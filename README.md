@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Satish Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+ <img align="right" style="right:40;" src="https://github.com/11Satish/11satish/blob/main/img/VN20210917-153949-unscreen.gif" width="320">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11satish&label=Profile%20views&color=0e75b6&style=flat" alt="11satish" /> </p>
 
 - - 🌱 I’m currently learning **Java + Data Structure + Algorithm**
@@ -14,11 +17,9 @@
 - - ⚡ Fun fact ****I think I am funny XD****
 
 
- <img align="right" style="right:40;" src="https://github.com/11Satish/11satish/blob/main/img/VN20210917-153949-unscreen.gif" width="250">
 
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me around the web 🌎 : ✔</h3>
 <p align="left">
 <a href="https://twitter.com/s_atish11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_atish11" height="30" width="40" /></a>
 <a href="https://fb.com/armanyadav.yadav.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="armanyadav.yadav.52" height="30" width="40" /></a>

@@ -1,4 +1,3 @@
-<img align="center" style="right:40;" src="https://github.com/11Satish/11satish/blob/main/img/sunset.jpg">
 
 <h1 align="center">Hi 👋, I'm Satish Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

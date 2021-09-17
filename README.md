@@ -8,9 +8,12 @@
 - - 👨‍⚖💻 can you also check out my portfolio at [ѕαтιѕн | ρσятƒσℓισ](https://11satish.github.io/---/)
 
 - - 📫 How to reach me ****satishwithcode@gmail.com****
-- <img align="right" src="https://github.com/11Satish/11satish/blob/main/img/VN20210917-153949-unscreen.gif" width="250">
 
 - - ⚡ Fun fact ****I think I am funny XD****
+
+- <img align="right" style="right:40;" src="https://github.com/11Satish/11satish/blob/main/img/VN20210917-153949-unscreen.gif" width="250">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

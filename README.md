@@ -8,6 +8,7 @@
 - - 👨‍⚖️🕳💻 can you also check out my portfolio at [ѕαтιѕн | ρσятƒσℓισ](https://11satish.github.io/---/)
 
 - - 📫 How to reach me ****satishwithcode@gmail.com****
+- <img align="right" src="https://photos.google.com/photo/AF1QipNvjjgXWfo2YKhQCC7OR0RF_D9mIIcuOC3z2EPo" height="80" width="40">
 
 - - ⚡ Fun fact ****I think I am funny XD****
 

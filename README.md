@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satish Yadav</h1>
 <h3 align="center">Looking forward to working in a challenging environment!!!</h3>
 
-<img align="right" style="right:40;" src="https://github.com/11Satish/11satish/blob/main/img/VN20210917-153949-unscreen.gif" width="320">
+<img align="right" style="right:40;" src="https://github.com/SatishWithCode/SatishWithCode/blob/main/img/VN20210917-153949-unscreen.gif" width="320">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11satish&label=Profile%20views&color=0e75b6&style=flat" alt="11satish" /> </p>
 

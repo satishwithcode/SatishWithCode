@@ -18,7 +18,8 @@
 
 
 <h3 align="left">Find me around the web 🌎 : ✔</h3>
-<p align="left">
+<hr width="100">
+<p align="center">
   
 <a href="https://twitter.com/s_atish11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_atish11" height="30" width="40" /></a>
 <a href="https://fb.com/armanyadav.yadav.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="armanyadav.yadav.52" height="30" width="40" /></a>

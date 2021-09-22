@@ -35,12 +35,12 @@
 
 
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=satishwithcode&hide=php&theme=cobalt">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishwithcode&hide=php&theme=cobalt" />
+</a>
+
 ![Satish Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishwithcode&theme=cobalt&show_icons=true)
 
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=satishwithcode&hide=php&theme=cobalt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishwithcode&hide=php&theme=cobalt" />
-</a>
 
  
  

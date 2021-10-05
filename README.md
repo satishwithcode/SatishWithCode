@@ -51,8 +51,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishwithcode&hide=php&theme=cobalt" />
 </a>
 
-![Satish Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishwithcode&theme=cobalt&show_icons=true)
-
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Satish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishwithcode&langs_count=8&count_private=true&layout=compact&theme=cobalt&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
 ## Contribution Activity Graph :

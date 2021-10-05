@@ -48,14 +48,15 @@
 
 ## 🏆 My Profile star's :
 
+<div>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Satish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishwithcode&langs_count=8&count_private=true&layout=compact&theme=cobalt&hide_border=true" /></a>
+
 
 ![Satish Yadav's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishwithcode&theme=cobalt&show_icons=true&hide_border=true)
-
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Satish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishwithcode&langs_count=8&count_private=true&layout=compact&theme=cobalt&hide_border=true" /></a>
-<br>
+</div>
 
 ## Contribution Activity Graph :
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satishwithcode)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satishwithcode&theme=cobalt)  
 
 
 

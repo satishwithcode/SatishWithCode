@@ -25,7 +25,7 @@
 <div align="center">
   
 <a href="https://twitter.com/satish__ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_atish11" height="30" width="40" /></a>
-<a href="https://fb.com/armanyadav.yadav.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="armanyadav.yadav.52" height="30" width="40" /></a>
+<a href="https://www.facebook.com/satishyadav06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satish yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/satish__ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="11_satish" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/c11_satish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="c11_satish" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/satishwithcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satishwithcode" height="30" width="40" /></a>

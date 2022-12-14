@@ -12,7 +12,7 @@
 
 - - 🌱 I’m currently learning **Java + Data Structure + Algorithms**
 
-- - 👨‍⚖💻 can you also check out my portfolio at [ѕαтιѕн | ρσятƒσℓισ](https://soilwrap.com/)
+- - 👨‍⚖💻 can you also check out my portfolio at [Portfolio](https://soilwrap.com/)
 
 - - 📫 How to reach me ****satishwithcode@gmail.com****
 
